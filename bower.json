@@ -1,7 +1,12 @@
 {
-    "name": "Input Credit Card Flag",
-    "version": "1.0.0",
-    "author" : "Wender Lima",
+    "name": "angular-cardflag",
+    "version": "1.0.1",
+    "authors": [
+        "wender <wender.lima@gmail.com>",
+        "Victor Aguilar <victor.aguilar@ciencias.unam.mx>"
+    ],
     "description": "AngularJS directive to automatically show credit card flags while typing",
-    "dependencies": {}
+    "dependencies": {
+        "angular" : ">1.2"
+    }
 }
